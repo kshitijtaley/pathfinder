@@ -9,5 +9,6 @@ function App() {
     </div>
   );
 }
+//path finding visualizer for graph algorithms
 
 export default App;
